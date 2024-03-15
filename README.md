@@ -5,7 +5,7 @@
     position : 'front-end-developer',
     birthdate : '1998-Jan-14',
     e-mail : 'seongjin8247@gmail.com',
-    linked-in : 'www.linkedin.com/in/seongjin-park-545262237'
+    linkedIn : 'www.linkedin.com/in/seongjin-park-545262237'
   }
 ```
 I believe in 'Stay hungry stay foolish' mindset. 
