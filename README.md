@@ -2,9 +2,9 @@
 
 ``` javascript
   const jin = {
-    position : 'front-end-developer'
-    birthdate : '1998-Jan-14'
-    e-mail : 'seongjin8247@gmail.com'
+    position : 'front-end-developer',
+    birthdate : '1998-Jan-14',
+    e-mail : 'seongjin8247@gmail.com',
     linked-in : 'www.linkedin.com/in/seongjin-park-545262237'
   }
 ```
