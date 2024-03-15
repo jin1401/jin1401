@@ -20,8 +20,10 @@ React / TypeScript / Tailwindcss
 
 ### 🍎 My tech blog posts
 
-https://velog.io/@seongjin7615/posts
-https://seongjin.hashnode.dev/
+
+[hashnode]([http://www.google.co.kr](https://seongjin.hashnode.dev/))
+[velog](https://velog.io/@seongjin7615)
+
 
 ### 📷 My daily blog posts
 
