@@ -11,7 +11,7 @@
 I believe in 'Stay hungry stay foolish' mindset. <br/>
 One day I will become a cool front-end developer :)
 
-### 🧑‍🎓 Pusan National University ( Nano energy engineering ) 2017 ~ 2025
+### 🧑‍🎓 Pusan National University 
 
 
 ### 🌱 I’m currently learning ... 
