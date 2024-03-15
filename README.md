@@ -8,7 +8,7 @@
     hobby : ['climbing', 'hiking', 'traveling']
   }
 ```
-I believe in 'Stay hungry stay foolish' mindset. 
+I believe in 'Stay hungry stay foolish' mindset. <br/>
 One day I will become a cool front-end developer :)
 
 ### 🧑‍🎓 Pusan National University ( Nano energy engineering ) 2017 ~ 2025
@@ -23,6 +23,8 @@ React / TypeScript / Tailwindcss
 
 [velog](https://velog.io/@seongjin7615)
 
+### clone coding results
+[portfolio website](https://jin1401.github.io/portfolio/)
 
 ### 📷 My daily blog posts
 
