@@ -19,7 +19,7 @@ React / TypeScript / Tailwindcss
 
 
 ### 🍎 My tech blog posts
-[hashnode](http://www.google.co.kr](https://seongjin.hashnode.dev/)) <br/>
+[hashnode](https://seongjin.hashnode.dev/) <br/>
 
 [velog](https://velog.io/@seongjin7615)
 
