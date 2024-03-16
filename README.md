@@ -19,12 +19,12 @@ React / TypeScript / Tailwindcss
 
 
 ### 🍎 My tech blog posts
-➡️[hashnode](https://seongjin.hashnode.dev/) <br/>
+➡️ [hashnode](https://seongjin.hashnode.dev/) <br/>
 
-➡️[velog](https://velog.io/@seongjin7615)
+➡️ [velog](https://velog.io/@seongjin7615)
 
 ### clone coding results
-➡️[portfolio website](https://jin1401.github.io/portfolio/)
+➡️ [portfolio website](https://jin1401.github.io/portfolio/)
 
 ### 📷 My daily blog posts
 
