@@ -23,6 +23,9 @@ React / TypeScript / Tailwindcss
 
 ➡️ [velog](https://velog.io/@seongjin7615)
 
+### My projects
+- [Bucket-list app](https://bucket-lists.netlify.app/)
+
 ### clone coding results
 ➡️ [portfolio website](https://jin1401.github.io/portfolio/)
 
