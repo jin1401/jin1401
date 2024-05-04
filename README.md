@@ -21,8 +21,6 @@ React / TypeScript / Tailwindcss
 ### 🍎 My tech blog posts
 ➡️ [hashnode](https://seongjin.hashnode.dev/) <br/>
 
-➡️ [velog](https://velog.io/@seongjin7615)
-
 ### My projects
 - [Bucket-list app](https://bucket-lists.netlify.app/)
 
