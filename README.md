@@ -9,13 +9,13 @@
   }
 ```
 I believe in 'Stay hungry stay foolish' mindset. <br/>
-One day I will become a cool front-end developer :)
+One day I will become a great front-end developer :)
 
 ### 🧑‍🎓 Pusan National University 
 
 
 ### 🌱 I’m currently learning ... 
-React / TypeScript / Tailwindcss
+React / TypeScript 
 
 
 ### 🍎 My tech blog posts
@@ -26,10 +26,6 @@ React / TypeScript / Tailwindcss
 
 ### clone coding results
 ➡️ [portfolio website](https://jin1401.github.io/portfolio/)
-
-### 📷 My daily blog posts
-
-➡️ https://blog.naver.com/seongjin114
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin1401)](https://github.com/anuraghazra/github-readme-stats)
